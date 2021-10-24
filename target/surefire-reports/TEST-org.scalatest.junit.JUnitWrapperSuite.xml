@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuite 
-errors="0" failures="0" hostname="MSI-DESKTOP-TI5" name="org.scalatest.junit.JUnitWrapperSuite" tests="0" time="0.02" timestamp="2021-10-24T14:22:21">
+errors="0" failures="0" hostname="MSI-DESKTOP-TI5" name="org.scalatest.junit.JUnitWrapperSuite" tests="0" time="0.019" timestamp="2021-10-24T15:12:51">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment">
     </property>
@@ -36,7 +36,7 @@ errors="0" failures="0" hostname="MSI-DESKTOP-TI5" name="org.scalatest.junit.JUn
     <property name="os.name" value="Windows 10"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property 
-    name="java.library.path" value="C:\tools\java8\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft VS Code\bin;C:\tools\java8\bin;C:\tools\spark\bin;C:\tools\scala\bin;C:\tools\hadoop\hadoop-3.2.1\bin;C:\tools\java8\jre\bin;C:\Program Files\Git\cmd;C:\python3;C:\python3\Scripts;C:\Program Files (x86)\PDFtk Server\bin\;;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\isain\AppData\Local\Microsoft\WindowsApps;C:\tools\Graphviz\bin;C:\tools\streamlink;C:\Program Files\VideoLAN\VLC;C:\tools\terraform;C:\tools\kubectx;C:\tools\java8\bin;C:\tools\maven\bin;;.">
+    name="java.library.path" value="C:\tools\java8\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft VS Code\bin;C:\tools\java8\bin;C:\tools\spark\bin;C:\tools\scala\bin;C:\tools\hadoop\hadoop-3.2.1\bin;C:\tools\java8\jre\bin;C:\Program Files\Git\cmd;C:\python3;C:\python3\Scripts;C:\Program Files (x86)\PDFtk Server\bin\;;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\isain\AppData\Local\Microsoft\WindowsApps;C:\tools\Graphviz\bin;C:\tools\streamlink;C:\Program Files\VideoLAN\VLC;C:\tools\terraform;C:\tools\kubectx;C:\tools\java8\bin;C:\tools\maven\bin;C:\tools\spark\bin;C:\tools\hadoop\hadoop-3.2.1\bin;;.">
 </property>
     <property 
     name="java.specification.name" value="Java Platform API Specification">
